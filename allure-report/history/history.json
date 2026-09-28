@@ -1,0 +1,61 @@
+{
+  " e2e\\example.spec.ts homepage has Playwright in title and get started link linking to the intro page" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5945fd7ce572ff0e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1659889317221,
+        "stop" : 1659889334004,
+        "duration" : 16783
+      }
+    } ]
+  },
+  " Tests\\ListingPage\\ListingPageCD.spec.js Listing Page CD Tests CD_1" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a99d012a699ebaee",
+      "status" : "failed",
+      "statusDetails" : "page.goto: Timeout 90000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://dz3qacd.dozen.ai/Auto/AutomationPageOneQ\", waiting until \"networkidle\"\n============================================================",
+      "time" : {
+        "start" : 1659889317383,
+        "stop" : 1659889411949,
+        "duration" : 94566
+      }
+    } ]
+  },
+  " Tests\\ListingPage\\ListingPageCD.spec.js Listing Page CD Tests CD_2" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4c6c7847367f7d7a",
+      "status" : "failed",
+      "statusDetails" : "page.goto: Timeout 90000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://dz3qacd.dozen.ai/Auto/AutomationPageOneQ\", waiting until \"networkidle\"\n============================================================",
+      "time" : {
+        "start" : 1659889335433,
+        "stop" : 1659889427876,
+        "duration" : 92443
+      }
+    } ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "e2e\\example.spec.ts",
+    "children" : [ {
+      "name" : "homepage has Playwright in title and get started link linking to the intro page",
+      "uid" : "5945fd7ce572ff0e",
+      "parentUid" : "31c30f24b294345284a3d1aa958b9aa1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1659889317221,
+        "stop" : 1659889334004,
+        "duration" : 16783
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "31c30f24b294345284a3d1aa958b9aa1"
+  }, {
+    "name" : "Tests\\ListingPage\\ListingPageCD.spec.js",
+    "children" : [ {
+      "name" : "Listing Page CD Tests",
+      "children" : [ {
+        "name" : "CD_1",
+        "uid" : "a99d012a699ebaee",
+        "parentUid" : "e975efc1d76917a4c5a5e715eeb61db9",
+        "status" : "failed",
+        "time" : {
+          "start" : 1659889317383,
+          "stop" : 1659889411949,
+          "duration" : 94566
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "CD_2",
+        "uid" : "4c6c7847367f7d7a",
+        "parentUid" : "e975efc1d76917a4c5a5e715eeb61db9",
+        "status" : "failed",
+        "time" : {
+          "start" : 1659889335433,
+          "stop" : 1659889427876,
+          "duration" : 92443
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e975efc1d76917a4c5a5e715eeb61db9"
+    } ],
+    "uid" : "0d521657482cf504a51b0c4c97b3e01d"
+  } ]
+}

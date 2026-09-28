@@ -1,0 +1,39 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "page.goto: Timeout 90000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://dz3qacd.dozen.ai/Auto/AutomationPageOneQ\", waiting until \"networkidle\"\n============================================================",
+      "children" : [ {
+        "name" : "CD_1",
+        "uid" : "a99d012a699ebaee",
+        "parentUid" : "11d471e086a48f6375cc98265cd8ae2d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1659889317383,
+          "stop" : 1659889411949,
+          "duration" : 94566
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "CD_2",
+        "uid" : "4c6c7847367f7d7a",
+        "parentUid" : "11d471e086a48f6375cc98265cd8ae2d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1659889335433,
+          "stop" : 1659889427876,
+          "duration" : 92443
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "11d471e086a48f6375cc98265cd8ae2d"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

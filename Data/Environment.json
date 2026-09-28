@@ -1,0 +1,19 @@
+{
+    "CMURL": "https://dz3qacm.dozen.ai/sitecore/",
+        "CMUsername": "admin",
+        "CMPassword": "Xyz789789789",
+        "CDURL": "https://dz3qacd.dozen.ai/",
+        "CDUsername": "AdeleV@M365x299303.OnMicrosoft.com",
+        "CDPassword": "OMT2Km641B",
+        "PwerShell": "https://dz3qacm.dozen.ai/sitecore/shell/Applications/PowerShell/PowerShellIse?sc_bw=1",    
+    "QAData" : {
+        "CMURL": "https://dz3qacm.dozen.ai/sitecore/",
+    "CMUsername": "admin",
+    "CMPassword": "Xyz789789789",
+    "CDURL": "https://dz3rmfreshcd.dozen.ai/",
+    "CDUsername": "AdeleV@M365x299303.OnMicrosoft.com",
+    "CDPassword": "OMT2Km641B",
+    "PwerShell": "https://dz3qacm.dozen.ai/sitecore/shell/Applications/PowerShell/PowerShellIse?sc_bw=1" 
+    }
+}
+

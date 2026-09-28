@@ -1,0 +1,41 @@
+{
+  "uid" : "5945fd7ce572ff0e",
+  "name" : "homepage has Playwright in title and get started link linking to the intro page",
+  "fullName" : "homepage has Playwright in title and get started link linking to the intro page",
+  "historyId" : " e2e\\example.spec.ts homepage has Playwright in title and get started link linking to the intro page",
+  "time" : {
+    "start" : 1659889317221,
+    "stop" : 1659889334004,
+    "duration" : 16783
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "language",
+    "value" : "JavaScript"
+  }, {
+    "name" : "framework",
+    "value" : "Playwright"
+  }, {
+    "name" : "suite",
+    "value" : "e2e\\example.spec.ts"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5945fd7ce572ff0e.json",
+  "parameterValues" : [ ]
+}

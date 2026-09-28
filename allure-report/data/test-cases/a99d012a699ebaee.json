@@ -1,0 +1,68 @@
+{
+  "uid" : "a99d012a699ebaee",
+  "name" : "CD_1",
+  "fullName" : "CD_1",
+  "historyId" : " Tests\\ListingPage\\ListingPageCD.spec.js Listing Page CD Tests CD_1",
+  "time" : {
+    "start" : 1659889317383,
+    "stop" : 1659889411949,
+    "duration" : 94566
+  },
+  "status" : "failed",
+  "statusMessage" : "page.goto: Timeout 90000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://dz3qacd.dozen.ai/Auto/AutomationPageOneQ\", waiting until \"networkidle\"\n============================================================",
+  "statusTrace" : "page.goto: Timeout 90000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://dz3qacd.dozen.ai/Auto/AutomationPageOneQ\", waiting until \"networkidle\"\n============================================================\n    at D:\\DozenAutomationProject\\Latest\\Tests\\ListingPage\\ListingPageCD.spec.js:71:20",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "page.goto: Timeout 90000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://dz3qacd.dozen.ai/Auto/AutomationPageOneQ\", waiting until \"networkidle\"\n============================================================",
+    "statusTrace" : "page.goto: Timeout 90000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://dz3qacd.dozen.ai/Auto/AutomationPageOneQ\", waiting until \"networkidle\"\n============================================================\n    at D:\\DozenAutomationProject\\Latest\\Tests\\ListingPage\\ListingPageCD.spec.js:71:20",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "f207c515d8142888",
+      "name" : "screenshot",
+      "source" : "f207c515d8142888.png",
+      "type" : "image/png",
+      "size" : 6720
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "language",
+    "value" : "JavaScript"
+  }, {
+    "name" : "framework",
+    "value" : "Playwright"
+  }, {
+    "name" : "suite",
+    "value" : "Tests\\ListingPage\\ListingPageCD.spec.js"
+  }, {
+    "name" : "subSuite",
+    "value" : "Listing Page CD Tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "a99d012a699ebaee.json",
+  "parameterValues" : [ ]
+}

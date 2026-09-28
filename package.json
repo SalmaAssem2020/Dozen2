@@ -1,0 +1,26 @@
+{
+  "devDependencies": {
+    "@applitools/eyes-playwright": "^1.11.1",
+    "@playwright/test": "^1.24.2",
+    "allure-commandline": "^2.13.8",
+    "clean-dir": "^1.0.3",
+    "experimental-allure-playwright": "0.0.3",
+    "jest": "^27.4.2",
+    "jest-playwright-preset": "^1.7.0",
+    "playwright": "^1.24.2"
+  },
+  "scripts": {
+    "allure:cleanDir": "npx cleandir ./allure-results",
+    "allure:generate": "npx allure generate ./allure-results --clean",
+    "allure:open": "npx allure open ./allure-report",
+    "test": "npx playwright test",
+    "posttest": "npm run allure:generate",
+    "pretest": "node Setup/Scripts/script.js"
+  },
+  "dependencies": {
+    "googleapis": "^100.0.0",
+    "json": "^11.0.0",
+    "node-xlsx": "^0.21.0",
+    "xhr2": "^0.2.1"
+  }
+}
